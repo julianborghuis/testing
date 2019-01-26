@@ -1,0 +1,254 @@
+[00:35:21] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:58181 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:35:22] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:35:29] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:55007 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:36:18] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:55007 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:36:18] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:36:21] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:55114 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:41:21] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:55114 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:41:21] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:41:24] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:57865 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:41:51] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:57865 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:41:51] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:41:59] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:58247 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:43:51] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:58247 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:43:51] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:44:00] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:61708 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:44:05] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:61708 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:44:05] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:44:12] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:61921 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:44:58] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:61921 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:44:58] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:45:01] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:62774 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:45:11] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:62774 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:45:11] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:45:18] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:63083 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:45:39] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:63083 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:45:39] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:45:47] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:63449 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:46:34] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:63449 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:46:34] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:46:36] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:64424 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:46:47] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:64424 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:46:47] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:46:54] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:64805 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:47:03] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:64805 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:47:03] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:47:05] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:64899 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:47:13] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:64899 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:47:13] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:47:16] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:65084 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:48:13] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:65084 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:48:13] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:48:20] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49183 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:49:01] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49183 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:49:01] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:49:03] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49361 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:51:25] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49361 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:51:25] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:51:28] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49652 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:51:39] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49652 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:51:39] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:51:46] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49698 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:52:56] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49698 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:52:56] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:53:03] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49925 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:53:37] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49925 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:53:37] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:53:45] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50060 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:54:18] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50060 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:54:18] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:54:20] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50154 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[01:01:36] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50154 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[01:01:36] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[01:01:38] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:51956 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[01:02:48] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:51956 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[01:02:48] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[01:02:51] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:52565 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:07:37] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"946d5a30188137663857dbf9286461ee","event":{"token":"963cb0879957628b","guild_id":"475269385108586502","endpoint":"singapore495.discord.gg:80"}}
+[16:07:51] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:08:02] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:08:05] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:10:02] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:52565 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:10:02] [ INFO ] [SocketContext] Shutting down 1 cores and 1 playing players.
+[16:10:03] [ ERROR] [AudioPlayer] Handler of event com.sedmelluq.discord.lavaplayer.player.event.TrackEndEvent@4cdcfdb2 threw an exception.
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.player.EventEmitter.onTrackEnd(EventEmitter.java:64)
+	at com.sedmelluq.discord.lavaplayer.player.event.AudioEventAdapter.onEvent(AudioEventAdapter.java:70)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.dispatchEvent(AudioPlayer.java:295)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopWithReason(AudioPlayer.java:139)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopTrack(AudioPlayer.java:127)
+	at lavalink.server.player.Player.stop(Player.java:66)
+	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(Unknown Source)
+	at lavalink.server.io.SocketContext.shutdown(SocketContext.java:137)
+	at lavalink.server.io.SocketServer.close(SocketServer.java:119)
+	at lavalink.server.io.SocketServer.onClose(SocketServer.java:110)
+	at org.java_websocket.server.WebSocketServer.onWebsocketClose(WebSocketServer.java:577)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:504)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:526)
+	at org.java_websocket.server.WebSocketServer.handleIOException(WebSocketServer.java:521)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:451)
+	at java.lang.Thread.run(Unknown Source)
+[16:10:07] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49758 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:11:09] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50641 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:11:49] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:11:49] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"81a88cff268c94f1dd0daf9cc68eff42","event":{"token":null,"guild_id":"475269385108586502","endpoint":null}}
+[16:11:49] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"81a88cff268c94f1dd0daf9cc68eff42","event":{"token":"5e123ee9c30afbf2","guild_id":"475269385108586502","endpoint":"singapore495.discord.gg:80"}}
+[16:11:51] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:11:51] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:11:52] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:11:53] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:11:54] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:12:55] [ INFO ] [SocketServer] {"op":"destroy","guildId":"475269385108586502"}
+[16:12:55] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:53726 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:01] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54036 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:04] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54371 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:06] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54379 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:09] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54444 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:11] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54500 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:14] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54514 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:16] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54550 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:19] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54571 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:21] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54750 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:22] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:54751 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:24] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54756 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:26] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54799 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:29] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54852 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:32] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54904 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:34] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:54919 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:37] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55007 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:39] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55013 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:42] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55132 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:44] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55139 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:47] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55149 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:49] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55187 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:52] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55229 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:54] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55271 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:57] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55330 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:13:59] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:55358 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:02] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:56318 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:04] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:56852 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:07] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57533 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:09] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57621 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:12] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57743 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:14] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57748 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:17] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57765 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:19] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57919 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:22] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:57955 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:24] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:58116 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:27] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:58155 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:29] [ ERROR] [SocketServer] Authentication failed from /127.0.0.1:58178 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:31] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50641 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:14:31] [ INFO ] [SocketContext] Shutting down 1 cores and 0 playing players.
+[16:14:31] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49758 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:14:32] [ INFO ] [SocketContext] Shutting down 1 cores and 1 playing players.
+[16:14:32] [ ERROR] [AudioPlayer] Handler of event com.sedmelluq.discord.lavaplayer.player.event.TrackEndEvent@1e414c20 threw an exception.
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.player.EventEmitter.onTrackEnd(EventEmitter.java:64)
+	at com.sedmelluq.discord.lavaplayer.player.event.AudioEventAdapter.onEvent(AudioEventAdapter.java:70)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.dispatchEvent(AudioPlayer.java:295)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopWithReason(AudioPlayer.java:139)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopTrack(AudioPlayer.java:127)
+	at lavalink.server.player.Player.stop(Player.java:66)
+	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(Unknown Source)
+	at lavalink.server.io.SocketContext.shutdown(SocketContext.java:137)
+	at lavalink.server.io.SocketServer.close(SocketServer.java:119)
+	at lavalink.server.io.SocketServer.onClose(SocketServer.java:110)
+	at org.java_websocket.server.WebSocketServer.onWebsocketClose(WebSocketServer.java:577)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:504)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:526)
+	at org.java_websocket.server.WebSocketServer.handleIOException(WebSocketServer.java:521)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:451)
+	at java.lang.Thread.run(Unknown Source)
+[16:14:32] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:54751 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:14:32] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[16:14:40] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:62583 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:14:52] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:14:52] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"51bf45944787ec8a017542732d37aeee","event":{"token":"5e123ee9c30afbf2","guild_id":"475269385108586502","endpoint":"singapore495.discord.gg:80"}}
+[16:14:53] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:14:53] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:15:44] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:62583 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:15:44] [ INFO ] [SocketContext] Shutting down 1 cores and 1 playing players.
+[16:15:44] [ ERROR] [AudioPlayer] Handler of event com.sedmelluq.discord.lavaplayer.player.event.TrackEndEvent@29bec84b threw an exception.
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.player.EventEmitter.onTrackEnd(EventEmitter.java:64)
+	at com.sedmelluq.discord.lavaplayer.player.event.AudioEventAdapter.onEvent(AudioEventAdapter.java:70)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.dispatchEvent(AudioPlayer.java:295)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopWithReason(AudioPlayer.java:139)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopTrack(AudioPlayer.java:127)
+	at lavalink.server.player.Player.stop(Player.java:66)
+	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(Unknown Source)
+	at lavalink.server.io.SocketContext.shutdown(SocketContext.java:137)
+	at lavalink.server.io.SocketServer.close(SocketServer.java:119)
+	at lavalink.server.io.SocketServer.onClose(SocketServer.java:110)
+	at org.java_websocket.server.WebSocketServer.onWebsocketClose(WebSocketServer.java:577)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:504)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:526)
+	at org.java_websocket.server.WebSocketServer.handleIOException(WebSocketServer.java:521)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:451)
+	at java.lang.Thread.run(Unknown Source)
+[16:15:52] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:64454 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:16:05] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:16:05] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"43444fc5220d2a433e4b32695b689aef","event":{"token":"5e123ee9c30afbf2","guild_id":"475269385108586502","endpoint":"singapore495.discord.gg:80"}}
+[16:16:05] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:16:06] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:17:36] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:64454 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:17:36] [ INFO ] [SocketContext] Shutting down 1 cores and 1 playing players.
+[16:17:36] [ ERROR] [AudioPlayer] Handler of event com.sedmelluq.discord.lavaplayer.player.event.TrackEndEvent@12aaec46 threw an exception.
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.player.EventEmitter.onTrackEnd(EventEmitter.java:64)
+	at com.sedmelluq.discord.lavaplayer.player.event.AudioEventAdapter.onEvent(AudioEventAdapter.java:70)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.dispatchEvent(AudioPlayer.java:295)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopWithReason(AudioPlayer.java:139)
+	at com.sedmelluq.discord.lavaplayer.player.AudioPlayer.stopTrack(AudioPlayer.java:127)
+	at lavalink.server.player.Player.stop(Player.java:66)
+	at java.util.concurrent.ConcurrentHashMap$ValuesView.forEach(Unknown Source)
+	at lavalink.server.io.SocketContext.shutdown(SocketContext.java:137)
+	at lavalink.server.io.SocketServer.close(SocketServer.java:119)
+	at lavalink.server.io.SocketServer.onClose(SocketServer.java:110)
+	at org.java_websocket.server.WebSocketServer.onWebsocketClose(WebSocketServer.java:577)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:504)
+	at org.java_websocket.WebSocketImpl.closeConnection(WebSocketImpl.java:526)
+	at org.java_websocket.server.WebSocketServer.handleIOException(WebSocketServer.java:521)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:451)
+	at java.lang.Thread.run(Unknown Source)
+[16:17:39] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50243 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:17:51] [ INFO ] [AudioLoaderRestHandler] GET /loadtracks
+[16:17:52] [ INFO ] [SocketServer] {"op":"voiceUpdate","guildId":"475269385108586502","sessionId":"97f357de74aa325cdf838cb08d967eca","event":{"token":"5e123ee9c30afbf2","guild_id":"475269385108586502","endpoint":"singapore495.discord.gg:80"}}
+[16:17:52] [ INFO ] [AudioLoader] Loaded playlist Songs for me to listen to
+[16:17:52] [ INFO ] [SocketServer] {"op":"play","guildId":"475269385108586502","track":"QAAAowIANiJKdXN0IEEgRHJlYW0iIGJ5IE5lbGx5IC0gU2FtIFRzdWkgJiBDaHJpc3RpbmEgR3JpbW1pZQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAABB6wAAthMlJBMHZzWlhmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWEyUkEwdnNaWGY4AAd5b3V0dWJlAAAAAAAAAAA="}
+[16:18:23] [ INFO ] [SocketServer] {"op":"destroy","guildId":"475269385108586502"}
+[16:39:39] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50243 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:39:39] [ INFO ] [SocketContext] Shutting down 1 cores and 0 playing players.
+[16:39:48] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:49868 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:40:46] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:49868 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:40:46] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[16:40:53] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50941 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[16:41:20] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50941 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[16:41:20] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[16:41:22] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:51420 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[17:13:55] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:51420 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[17:13:56] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[17:14:30] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:54708 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[17:15:31] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:54708 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[17:15:32] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[17:15:39] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:57621 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[17:16:28] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:57621 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[17:16:28] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[17:16:30] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:62818 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[17:18:45] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:62818 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[17:18:45] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[17:18:48] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:50171 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[17:23:47] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:50171 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[17:23:47] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[17:23:50] [ INFO ] [SocketServer] Connection opened from /127.0.0.1:58127 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[23:10:00] [ INFO ] [SocketServer] Connection closed from /127.0.0.1:58127 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[23:10:03] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[23:55:23] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49915 with protocol Draft_6455 extension: DefaultExtension protocol: 

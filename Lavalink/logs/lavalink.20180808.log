@@ -1,0 +1,61 @@
+[15:04:36] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:52951 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[15:04:51] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[18:13:38] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:55782 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[18:16:31] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:55782 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[18:16:32] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[18:16:38] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:55800 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[18:18:15] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:55800 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[18:18:15] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[18:18:26] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:55816 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[18:20:09] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:55816 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[18:20:09] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[18:20:21] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:55840 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[18:20:29] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:55840 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[18:20:29] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[18:20:34] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:55847 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[19:21:21] [ INFO ] [Launcher] Starting Launcher on Naz-PC2 with PID 11856 (H:\Bots\TwitchBot JS Attempt\Lavalink\Lavalink.jar started by BluSpring in H:\Bots\TwitchBot JS Attempt\Lavalink)
+[19:21:21] [ INFO ] [Launcher] No active profile set, falling back to default profiles: default
+[19:21:23] [ INFO ] [AnnotationConfigServletWebServerApplicationContext] Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1810399e: startup date [Wed Aug 08 19:21:23 SGT 2018]; root of context hierarchy
+[19:21:32] [ INFO ] [TomcatWebServer] Tomcat initialized with port(s): 2333 (http)
+[19:21:33] [ INFO ] [Http11NioProtocol] Initializing ProtocolHandler ["http-nio-0.0.0.0-2333"]
+[19:21:33] [ INFO ] [StandardService] Starting service [Tomcat]
+[19:21:33] [ INFO ] [StandardEngine] Starting Servlet Engine: Apache Tomcat/8.5.28
+[19:21:33] [ INFO ] [AprLifecycleListener] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.0\libnvvp;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\BluSpring\Downloads\electron-v2.0.2-win32-x64\;C:\Program Files\WorldPainter;C:\Program Files\Git\cmd;C:\ffmpeg\bin;C:\Users\BluSpring\Downloads\wfreerdp;C:\Users\BluSpring\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\BluSpring\AppData\Local\Programs\Python\Python36-32\;C:\Users\BluSpring\AppData\Local\Microsoft\WindowsApps;C:\Users\BluSpring\AppData\Roaming\npm;C:\Program Files\Microsoft VS Code\bin;C:\Users\BluSpring\AppData\Local\GitHubDesktop\bin;C:\Program Files\Heroku\bin;C:\Users\BluSpring\AppData\Local\hyper\app-2.0.0\resources\bin;.]
+[19:21:34] [ INFO ] [[/]] Initializing Spring embedded WebApplicationContext
+[19:21:34] [ INFO ] [ContextLoader] Root WebApplicationContext: initialization completed in 11766 ms
+[19:21:35] [ INFO ] [ServletRegistrationBean] Servlet dispatcherServlet mapped to [/]
+[19:21:35] [ INFO ] [FilterRegistrationBean] Mapping filter: 'characterEncodingFilter' to: [/*]
+[19:21:35] [ INFO ] [FilterRegistrationBean] Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[19:21:35] [ INFO ] [FilterRegistrationBean] Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[19:21:35] [ INFO ] [FilterRegistrationBean] Mapping filter: 'requestContextFilter' to: [/*]
+[19:21:37] [ INFO ] [GarbageCollectionMonitor] GC monitoring enabled, reporting results every 2 minutes.
+[19:21:37] [ INFO ] [AudioSendFactoryConfiguration] OS: Windows 10, Arch: amd64
+[19:21:37] [ INFO ] [AudioSendFactoryConfiguration] JDA-NAS supported system detected. Enabled native audio sending.
+[19:21:37] [ INFO ] [AudioSendFactoryConfiguration] Setting buffer to 400ms
+[19:21:37] [ INFO ] [AudioSendFactoryConfiguration] Setting playlist load limit to 600
+[19:21:37] [ INFO ] [Launcher] No sentry dsn found, turning off sentry.
+[19:21:37] [ ERROR] [SocketServer] Caught exception in websocket
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:315)
+	at java.lang.Thread.run(Unknown Source)
+[19:21:40] [ INFO ] [RequestMappingHandlerAdapter] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1810399e: startup date [Wed Aug 08 19:21:23 SGT 2018]; root of context hierarchy
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/loadtracks],methods=[GET],produces=[application/json]}" onto public java.lang.String lavalink.server.player.AudioLoaderRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String) throws java.io.IOException,java.lang.InterruptedException
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/decodetrack],methods=[GET],produces=[application/json]}" onto public java.lang.String lavalink.server.player.AudioLoaderRestHandler.getDecodeTrack(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String) throws java.io.IOException
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/decodetracks],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public java.lang.String lavalink.server.player.AudioLoaderRestHandler.postDecodeTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String) throws java.io.IOException
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/debug/nashorn],methods=[POST]}" onto public java.lang.String lavalink.server.util.DebugRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String)
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[19:21:40] [ INFO ] [RequestMappingHandlerMapping] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[19:21:40] [ INFO ] [SimpleUrlHandlerMapping] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[19:21:40] [ INFO ] [SimpleUrlHandlerMapping] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[19:21:40] [ INFO ] [SimpleUrlHandlerMapping] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[19:21:41] [ INFO ] [AnnotationMBeanExporter] Registering beans for JMX exposure on startup
+[19:21:41] [ INFO ] [Http11NioProtocol] Starting ProtocolHandler ["http-nio-0.0.0.0-2333"]
+[19:21:41] [ INFO ] [NioSelectorPool] Using a shared selector for servlet write/read
+[19:21:41] [ INFO ] [TomcatWebServer] Tomcat started on port(s): 2333 (http) with context path ''
+[19:21:41] [ INFO ] [Launcher] Started Launcher in 24.39 seconds (JVM running for 33.549)

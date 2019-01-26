@@ -1,0 +1,38 @@
+[2018-08-12 17:35:18,071] [ INFO ] [main] lavalink.server.Launcher: Starting Launcher on Naz-PC2 with PID 18404 (H:\Bots\TwitchBot JS Attempt\Lavalink\Lavalink.jar started by BluSpring in H:\Bots\TwitchBot JS Attempt\Lavalink)
+[2018-08-12 17:35:18,282] [ DEBUG] [main] lavalink.server.Launcher: Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[2018-08-12 17:35:18,283] [ INFO ] [main] lavalink.server.Launcher: No active profile set, falling back to default profiles: default
+[2018-08-12 17:35:30,528] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: OS: Windows 10, Arch: amd64
+[2018-08-12 17:35:30,529] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: JDA-NAS supported system detected. Enabled native audio sending.
+[2018-08-12 17:35:30,531] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: Setting buffer to 400ms
+[2018-08-12 17:35:30,537] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: Setting playlist load limit to 600
+[2018-08-12 17:35:30,581] [ INFO ] [main] lavalink.server.Launcher: No sentry dsn found, turning off sentry.
+[2018-08-12 17:35:30,705] [ ERROR] [WebsocketSelector25] lavalink.server.io.SocketServer: Caught exception in websocket
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:315)
+	at java.lang.Thread.run(Unknown Source)
+[2018-08-12 17:35:35,946] [ INFO ] [main] lavalink.server.Launcher: Started Launcher in 20.159 seconds (JVM running for 33.626)
+[2018-08-12 17:47:47,885] [ INFO ] [main] lavalink.server.Launcher: Starting Launcher on Naz-PC2 with PID 12700 (H:\Bots\TwitchBot JS Attempt\Lavalink\Lavalink.jar started by BluSpring in H:\Bots\TwitchBot JS Attempt\Lavalink)
+[2018-08-12 17:47:47,997] [ DEBUG] [main] lavalink.server.Launcher: Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[2018-08-12 17:47:47,999] [ INFO ] [main] lavalink.server.Launcher: No active profile set, falling back to default profiles: default
+[2018-08-12 17:47:59,324] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: OS: Windows 10, Arch: amd64
+[2018-08-12 17:47:59,325] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: JDA-NAS supported system detected. Enabled native audio sending.
+[2018-08-12 17:47:59,328] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: Using default buffer
+[2018-08-12 17:47:59,329] [ INFO ] [main] l.s.c.AudioSendFactoryConfiguration: Using default playlist load limit
+[2018-08-12 17:47:59,381] [ INFO ] [main] lavalink.server.Launcher: No sentry dsn found, turning off sentry.
+[2018-08-12 17:47:59,399] [ ERROR] [WebsocketSelector22] lavalink.server.io.SocketServer: Caught exception in websocket
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.Net.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:315)
+	at java.lang.Thread.run(Unknown Source)
+[2018-08-12 17:48:05,379] [ INFO ] [main] lavalink.server.Launcher: Started Launcher in 20.092 seconds (JVM running for 22.892)

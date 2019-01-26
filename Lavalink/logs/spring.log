@@ -1,0 +1,205 @@
+2019-01-25 17:29:31.451  INFO 11348 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.0
+	Build:          596
+	Build time:     24.07.2018 17:37:08 CEST
+	Branch          master
+	Commit:         16e19dc
+	Commit time:    24.07.2018 17:34:40 CEST
+	JVM:            10.0.2
+	Lavaplayer      1.3.7
+
+2019-01-25 17:29:31.540  INFO 11348 --- [main] o.s.boot.SpringApplication               :        .   _                  _ _       _    __ _ _
+      /\\ | | __ ___   ____ _| (_)_ __ | | __\ \ \ \
+     ( ( )| |/ _` \ \ / / _` | | | '_ \| |/ / \ \ \ \
+      \\/ | | (_| |\ V / (_| | | | | | |   <   ) ) ) )
+       '  |_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\ / / / /
+    =========================================/_/_/_/
+
+    :: Lavalink    ::       
+    :: Spring Boot ::        (v2.0.2.RELEASE)
+
+
+2019-01-25 17:29:31.695  INFO 11348 --- [main] lavalink.server.Launcher                 : Starting Launcher on DESKTOP-T0EMRMA with PID 11348 (C:\Users\Julian Borghuis\bot\discord.js-lavalink-musicbot-example\Lavalink\Lavalink(1).jar started by Julian Borghuis in C:\Users\Julian Borghuis\bot\discord.js-lavalink-musicbot-example\Lavalink)
+2019-01-25 17:29:31.701  INFO 11348 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2019-01-25 17:29:31.813  INFO 11348 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2892dae4: startup date [Fri Jan 25 17:29:31 CET 2019]; root of context hierarchy
+2019-01-25 17:29:33.438  INFO 11348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 2333 (http)
+2019-01-25 17:29:33.473  INFO 11348 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-25 17:29:33.475  INFO 11348 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.31
+2019-01-25 17:29:33.491  INFO 11348 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Users\Julian Borghuis\AppData\Local\Microsoft\WindowsApps;;C:\Users\Julian Borghuis\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Julian Borghuis\AppData\Roaming\npm;C:\Users\Julian Borghuis\.dotnet\tools;.]
+2019-01-25 17:29:33.576  INFO 11348 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-25 17:29:33.578  INFO 11348 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1764 ms
+2019-01-25 17:29:33.736  INFO 11348 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-01-25 17:29:33.740  INFO 11348 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-25 17:29:33.742  INFO 11348 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-25 17:29:33.743  INFO 11348 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-25 17:29:33.743  INFO 11348 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-25 17:29:33.823  INFO 11348 --- [main] l.s.c.AudioSendFactoryConfiguration      : OS: Windows 10, Arch: amd64
+2019-01-25 17:29:33.824  INFO 11348 --- [main] l.s.c.AudioSendFactoryConfiguration      : JDA-NAS supported system detected. Enabled native audio sending.
+2019-01-25 17:29:33.825  INFO 11348 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting buffer to 400ms
+2019-01-25 17:29:33.827  INFO 11348 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting playlist load limit to 6
+2019-01-25 17:29:33.862  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Started WS server with port 80
+2019-01-25 17:29:34.477  INFO 11348 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 17:29:34.509  WARN 11348 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2019-01-25 17:29:34.605  INFO 11348 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 17:29:34.838  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2892dae4: startup date [Fri Jan 25 17:29:31 CET 2019]; root of context hierarchy
+2019-01-25 17:29:34.920  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/debug/nashorn],methods=[POST]}" onto public java.lang.String lavalink.server.util.DebugRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String)
+2019-01-25 17:29:34.926  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/loadtracks],methods=[GET],produces=[application/json]}" onto public java.util.concurrent.CompletionStage<org.springframework.http.ResponseEntity<java.lang.String>> lavalink.server.player.AudioLoaderRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,java.lang.String)
+2019-01-25 17:29:34.928  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetracks],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.postDecodeTracks(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2019-01-25 17:29:34.929  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetrack],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.getDecodeTrack(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2019-01-25 17:29:34.935  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-25 17:29:34.936  INFO 11348 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-25 17:29:34.969  INFO 11348 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 17:29:34.969  INFO 11348 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 17:29:35.134  INFO 11348 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-01-25 17:29:35.172  INFO 11348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 2333 (http) with context path ''
+2019-01-25 17:29:35.177  INFO 11348 --- [main] lavalink.server.Launcher                 : Started Launcher in 4.462 seconds (JVM running for 5.251)
+2019-01-25 17:30:02.420  INFO 11348 --- [WebSocketWorker-21] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:58741 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 17:30:02.426  INFO 11348 --- [WebSocketWorker-21] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 17:31:52.296  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-25 17:31:52.297  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-01-25 17:31:52.321  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 24 ms
+2019-01-25 17:35:48.424  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58741 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 17:35:48.428  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 0 cores and 0 playing players.
+2019-01-25 17:35:48.429  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 17:37:03.932  INFO 11348 --- [WebSocketWorker-22] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:59567 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 17:37:03.934  INFO 11348 --- [WebSocketWorker-22] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 17:51:26.924  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:59567 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 17:51:26.925  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 0 cores and 0 playing players.
+2019-01-25 17:51:26.927  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:05:41.128  INFO 11348 --- [WebSocketWorker-24] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:52992 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:05:41.140  INFO 11348 --- [WebSocketWorker-24] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:05:50.612  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:52992 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:05:50.613  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 0 cores and 0 playing players.
+2019-01-25 19:05:50.616  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:08:54.038  INFO 11348 --- [WebSocketWorker-23] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:53400 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:08:54.041  INFO 11348 --- [WebSocketWorker-23] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:09:53.279  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:53400 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:09:53.280  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 0 cores and 0 playing players.
+2019-01-25 19:09:53.285  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:11:16.584  INFO 11348 --- [WebSocketWorker-24] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:53643 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:11:16.588  INFO 11348 --- [WebSocketWorker-24] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:11:26.934  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:11:27.231  INFO 11348 --- [WebSocketWorker-24] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"538031146282254357","sessionId":"090d20fc0040af8104377091f147b8e4","event":{"token":"7fc123f6e3a2d61b","guild_id":"538031146282254357","endpoint":"eu-central64.discord.gg:80"}}
+2019-01-25 19:11:27.784  INFO 11348 --- [WebSocketWorker-24] JDAA                                     : Audio System successfully setup!
+2019-01-25 19:11:28.300  INFO 11348 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Tom 72 uur blind door Bram | SLAM!
+2019-01-25 19:20:30.830  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:53643 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:20:30.833  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 1 cores and 0 playing players.
+2019-01-25 19:20:30.837  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:21:02.801  INFO 11348 --- [WebSocketWorker-24] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:54712 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:21:02.803  INFO 11348 --- [WebSocketWorker-24] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:21:16.157  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:21:16.366  INFO 11348 --- [WebSocketWorker-24] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"538031146282254357","sessionId":"596e56ed8a1b9ca1d47798dd64a8ed9f","event":{"token":"7fc123f6e3a2d61b","guild_id":"538031146282254357","endpoint":"eu-central64.discord.gg:80"}}
+2019-01-25 19:21:16.744  INFO 11348 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Tom 72 uur blind door Bram | SLAM!
+2019-01-25 19:21:23.581  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54712 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:21:23.582  INFO 11348 --- [WebSocketSelector-25] lavalink.server.io.SocketContext         : Shutting down 1 cores and 0 playing players.
+2019-01-25 19:21:23.583  INFO 11348 --- [WebSocketSelector-25] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:22:27.844  INFO 11348 --- [WebSocketWorker-21] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:54878 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:22:27.847  INFO 11348 --- [WebSocketWorker-21] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:22:41.286  INFO 11348 --- [http-nio-127.0.0.1-2333-exec-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:22:41.482  INFO 11348 --- [WebSocketWorker-21] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"538031146282254357","sessionId":"6435d0da1d03cd5a653ef2a23edf3a49","event":{"token":"7fc123f6e3a2d61b","guild_id":"538031146282254357","endpoint":"eu-central64.discord.gg:80"}}
+2019-01-25 19:22:41.728  INFO 11348 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Tom 72 uur blind door Bram | SLAM!
+2019-01-25 19:24:15.116  INFO 11348 --- [shutdown hook] lavalink.server.Launcher                 : Shutdown hook triggered
+2019-01-25 19:24:15.128  INFO 11348 --- [shutdown hook] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54878 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason  with code 1001
+2019-01-25 19:24:15.129  INFO 11348 --- [Thread-8] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:24:15.137  INFO 11348 --- [shutdown hook] lavalink.server.io.SocketContext         : Shutting down 1 cores and 0 playing players.
+2019-01-25 19:24:15.151  INFO 11348 --- [shutdown hook] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:24:25.222  INFO 53820 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.0
+	Build:          596
+	Build time:     24.07.2018 17:37:08 CEST
+	Branch          master
+	Commit:         16e19dc
+	Commit time:    24.07.2018 17:34:40 CEST
+	JVM:            10.0.2
+	Lavaplayer      1.3.7
+
+2019-01-25 19:24:25.321  INFO 53820 --- [main] o.s.boot.SpringApplication               :        .   _                  _ _       _    __ _ _
+      /\\ | | __ ___   ____ _| (_)_ __ | | __\ \ \ \
+     ( ( )| |/ _` \ \ / / _` | | | '_ \| |/ / \ \ \ \
+      \\/ | | (_| |\ V / (_| | | | | | |   <   ) ) ) )
+       '  |_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\ / / / /
+    =========================================/_/_/_/
+
+    :: Lavalink    ::       
+    :: Spring Boot ::        (v2.0.2.RELEASE)
+
+
+2019-01-25 19:24:25.521  INFO 53820 --- [main] lavalink.server.Launcher                 : Starting Launcher on DESKTOP-T0EMRMA with PID 53820 (C:\Users\Julian Borghuis\bot\discord.js-lavalink-musicbot-example\Lavalink\Lavalink(1).jar started by Julian Borghuis in C:\Users\Julian Borghuis\bot\discord.js-lavalink-musicbot-example\Lavalink)
+2019-01-25 19:24:25.524  INFO 53820 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2019-01-25 19:24:25.627  INFO 53820 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@36d585c: startup date [Fri Jan 25 19:24:25 CET 2019]; root of context hierarchy
+2019-01-25 19:24:27.405  INFO 53820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 2333 (http)
+2019-01-25 19:24:27.439  INFO 53820 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-25 19:24:27.440  INFO 53820 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.31
+2019-01-25 19:24:27.452  INFO 53820 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\ffmpeg\bin;C:\Users\Julian Borghuis\AppData\Local\Microsoft\WindowsApps;C:\Users\Julian Borghuis\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Julian Borghuis\AppData\Roaming\npm;C:\Users\Julian Borghuis\.dotnet\tools;C:\Python27;C:\ffmpeg\bin;;.]
+2019-01-25 19:24:27.542  INFO 53820 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-25 19:24:27.542  INFO 53820 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1916 ms
+2019-01-25 19:24:27.711  INFO 53820 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2019-01-25 19:24:27.717  INFO 53820 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-25 19:24:27.719  INFO 53820 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-25 19:24:27.722  INFO 53820 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-01-25 19:24:27.724  INFO 53820 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-25 19:24:27.805  INFO 53820 --- [main] l.s.c.AudioSendFactoryConfiguration      : OS: Windows 10, Arch: amd64
+2019-01-25 19:24:27.806  INFO 53820 --- [main] l.s.c.AudioSendFactoryConfiguration      : JDA-NAS supported system detected. Enabled native audio sending.
+2019-01-25 19:24:27.807  INFO 53820 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting buffer to 400ms
+2019-01-25 19:24:27.810  INFO 53820 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting playlist load limit to 6
+2019-01-25 19:24:27.867  INFO 53820 --- [WebSocketSelector-23] lavalink.server.io.SocketServer          : Started WS server with port 80
+2019-01-25 19:24:28.493  INFO 53820 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:24:28.529  WARN 53820 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2019-01-25 19:24:28.643  INFO 53820 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 19:24:28.902  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@36d585c: startup date [Fri Jan 25 19:24:25 CET 2019]; root of context hierarchy
+2019-01-25 19:24:28.994  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/debug/nashorn],methods=[POST]}" onto public java.lang.String lavalink.server.util.DebugRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String)
+2019-01-25 19:24:29.002  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetrack],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.getDecodeTrack(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2019-01-25 19:24:29.004  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetracks],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.postDecodeTracks(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2019-01-25 19:24:29.006  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/loadtracks],methods=[GET],produces=[application/json]}" onto public java.util.concurrent.CompletionStage<org.springframework.http.ResponseEntity<java.lang.String>> lavalink.server.player.AudioLoaderRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,java.lang.String)
+2019-01-25 19:24:29.013  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-01-25 19:24:29.016  INFO 53820 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-01-25 19:24:29.070  INFO 53820 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 19:24:29.072  INFO 53820 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-01-25 19:24:29.288  INFO 53820 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-01-25 19:24:29.335  INFO 53820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 2333 (http) with context path ''
+2019-01-25 19:24:29.346  INFO 53820 --- [main] lavalink.server.Launcher                 : Started Launcher in 4.824 seconds (JVM running for 5.635)
+2019-01-25 19:24:30.180  INFO 53820 --- [WebSocketWorker-19] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:55115 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:24:30.187  INFO 53820 --- [WebSocketWorker-19] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:25:11.822  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-01-25 19:25:11.824  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2019-01-25 19:25:11.863  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 38 ms
+2019-01-25 19:25:11.907  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-1] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:25:12.918  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track lancer from deltarune raps
+2019-01-25 19:26:07.485  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:26:07.921  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track CMFM!
+2019-01-25 19:26:09.597  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:26:09.616  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
+2019-01-25 19:26:21.022  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:26:21.245  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track CMFM!
+2019-01-25 19:36:48.715  INFO 53820 --- [WebSocketSelector-23] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55115 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:36:48.720  INFO 53820 --- [WebSocketSelector-23] lavalink.server.io.SocketContext         : Shutting down 0 cores and 0 playing players.
+2019-01-25 19:36:48.721  INFO 53820 --- [WebSocketSelector-23] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2019-01-25 19:36:54.706  INFO 53820 --- [WebSocketWorker-21] lavalink.server.io.SocketServer          : Connection opened from /127.0.0.1:56410 with protocol Draft_6455 extension: DefaultExtension protocol: 
+2019-01-25 19:36:54.708  INFO 53820 --- [WebSocketWorker-21] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2019-01-25 19:37:03.427  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:37:03.643  INFO 53820 --- [WebSocketWorker-21] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"538031146282254357","sessionId":"0052a066b17e0408dea5673090f3f1ee","event":{"token":"c03c3e12ebb29ac6","guild_id":"538031146282254357","endpoint":"eu-central64.discord.gg:80"}}
+2019-01-25 19:37:03.664  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track CMFM!
+2019-01-25 19:37:03.844  INFO 53820 --- [WebSocketWorker-21] JDAA                                     : Audio System successfully setup!
+2019-01-25 19:38:06.550  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:38:06.985  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track lancer from deltarune raps
+2019-01-25 19:38:34.502  INFO 53820 --- [http-nio-127.0.0.1-2333-exec-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2019-01-25 19:38:35.033  INFO 53820 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded track Tom 72 uur blind door Bram | SLAM!
+2019-01-25 19:49:11.048  INFO 53820 --- [WebSocketSelector-23] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:56410 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason De externe host heeft een verbinding verbroken with code 1006
+2019-01-25 19:49:11.049  INFO 53820 --- [WebSocketSelector-23] lavalink.server.io.SocketContext         : Shutting down 1 cores and 0 playing players.
+2019-01-25 19:49:11.050  INFO 53820 --- [WebSocketSelector-23] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.

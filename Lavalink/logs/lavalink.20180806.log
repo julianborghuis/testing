@@ -1,0 +1,89 @@
+[00:25:23] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49915 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:25:31] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:25:29] [ ERROR] [StatsTask] Exception while sending stats
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.io.StatsTask.sendStats(StatsTask.java:119)
+	at lavalink.server.io.StatsTask.run(StatsTask.java:53)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[00:25:34] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:50190 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:25:45] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:50190 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:25:45] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:25:49] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:50197 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[00:25:53] [ ERROR] [StatsTask] Exception while sending stats
+org.java_websocket.exceptions.WebsocketNotConnectedException: null
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:608)
+	at org.java_websocket.WebSocketImpl.send(WebSocketImpl.java:585)
+	at lavalink.server.io.StatsTask.sendStats(StatsTask.java:119)
+	at lavalink.server.io.StatsTask.run(StatsTask.java:53)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.runAndReset(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[00:26:18] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:50197 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[00:26:18] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[00:26:22] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:50208 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[15:04:17] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:50208 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[15:04:27] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[15:04:32] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:52476 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[20:09:13] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:52476 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[20:09:21] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[20:21:36] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49449 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[21:17:27] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49449 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[21:17:32] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[21:17:40] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49673 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[21:18:23] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49673 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[21:18:23] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[21:18:28] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49689 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[21:28:46] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49689 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[21:28:46] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:08:10] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49576 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:29:51] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49576 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:29:51] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:30:03] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49672 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:31:18] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49672 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:31:18] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:31:29] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49694 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:32:02] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49694 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:32:02] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:32:08] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49702 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:32:29] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49702 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:32:29] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:32:34] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49719 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:32:50] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49719 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:32:50] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:33:00] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49738 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:33:25] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49738 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:33:25] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:33:30] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49745 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:37:57] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49745 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:37:57] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:38:31] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49799 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:39:00] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49799 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:39:00] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:39:05] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49815 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:39:50] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49815 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:39:50] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:39:59] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49832 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:40:39] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49832 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:40:39] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:40:50] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49854 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:41:41] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49854 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:41:41] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:41:52] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49886 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:43:05] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49886 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:43:05] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:43:11] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49897 with protocol Draft_6455 extension: DefaultExtension protocol: 
+[22:46:25] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49897 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[22:46:25] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[22:46:35] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:49933 with protocol Draft_6455 extension: DefaultExtension protocol: 

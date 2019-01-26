@@ -1,0 +1,3 @@
+[21:27:09] [ INFO ] [SocketServer] Connection closed from /192.168.1.107:49933 with protocol Draft_6455 extension: DefaultExtension protocol:  with reason An existing connection was forcibly closed by the remote host with code 1006
+[21:27:29] [ INFO ] [SocketContext] Shutting down 0 cores and 0 playing players.
+[21:32:15] [ INFO ] [SocketServer] Connection opened from /192.168.1.107:52951 with protocol Draft_6455 extension: DefaultExtension protocol: 
